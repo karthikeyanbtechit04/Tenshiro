@@ -236,7 +236,6 @@ const RegisterModal = ({ isOpen, onClose, onLoginClick }) => {
                             style={{
                                 display: 'flex',
                                 alignItems: 'center',
-                                justifyContent: 'center',
                                 gap: '0.75rem',
                                 padding: '1rem',
                                 borderRadius: '12px',
