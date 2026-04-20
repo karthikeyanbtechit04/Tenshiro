@@ -21,3 +21,4 @@ Help students become job-ready before graduation through structured Domain -> Ro
     -   Frontend: `npm run dev`
     -   Backend: `npm start`
 # sumadd
+# Tenshiro_app
