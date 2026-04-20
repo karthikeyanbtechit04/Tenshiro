@@ -9,5 +9,9 @@
     "lint": "npm run lint --prefix frontend",
     "preview": "npm run preview --prefix frontend",
     "server": "npm start --prefix backend"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
   }
 }
